@@ -1,0 +1,54 @@
+7-Zip
+Active\ Directory\ Rights\ Management\ Services\ Client\ 2.1
+Autodesk
+Bonjour
+CamStudio\ 2.7
+Common\ Files
+CONEXANT
+desktop.ini
+DIFX
+Foxit\ Software
+Git
+Google
+HP
+HP-UPD-PCL6
+Hyper-V
+ibm
+ImageMagick-7.0.8-Q16
+Intel
+internet\ explorer
+Java
+JetBrains
+LAPSi
+McAfee
+Microsoft\ Office
+Microsoft\ Office\ 15
+Microsoft\ Policy\ Platform
+Microsoft\ Rights\ Management\ sharing\ application
+Microsoft\ Silverlight
+Microsoft\ VS\ Code
+MiniTool\ Partition\ Wizard\ Free\ 9.1
+MSBuild
+nodejs
+paint.net
+Realtek
+RealVNC
+Reference\ Assemblies
+Synaptics
+Syncplicity
+TITUS
+tivoli
+TortoiseSVN
+Uninstall\ Information
+Windows\ Defender
+Windows\ Defender\ Advanced\ Threat\ Protection
+Windows\ Mail
+Windows\ Media\ Player
+Windows\ Multimedia\ Platform
+windows\ nt
+Windows\ Photo\ Viewer
+Windows\ Portable\ Devices
+Windows\ Security
+Windows\ Sidebar
+WindowsApps
+WindowsPowerShell

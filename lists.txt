@@ -1,0 +1,59 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 0807-95C3
+
+ Directory of C:\Program Files
+
+12-Oct-18  13:41    <DIR>          .
+12-Oct-18  13:41    <DIR>          ..
+13-Oct-16  20:16    <DIR>          7-Zip
+07-Mar-18  19:11    <DIR>          Active Directory Rights Management Services Client 2.1
+17-Jun-18  17:20    <DIR>          Autodesk
+24-Nov-17  01:48    <DIR>          Bonjour
+20-Sep-18  09:52    <DIR>          CamStudio 2.7
+24-Sep-18  13:25    <DIR>          Common Files
+24-Sep-18  13:25    <DIR>          CONEXANT
+22-Jan-17  23:07    <DIR>          DIFX
+07-Mar-18  19:11    <DIR>          Foxit Software
+12-Jul-16  21:49    <DIR>          Git
+23-Mar-18  16:49    <DIR>          Google
+16-Jul-18  14:35    <DIR>          HP
+25-May-16  04:58    <DIR>          HP-UPD-PCL6
+16-Oct-18  13:29    <DIR>          Hyper-V
+11-Jul-16  18:38    <DIR>          ibm
+05-Jul-18  10:36    <DIR>          ImageMagick-7.0.8-Q16
+24-Sep-18  13:25    <DIR>          Intel
+16-Oct-18  13:29    <DIR>          internet explorer
+17-May-18  20:55    <DIR>          Java
+15-Jul-18  20:35    <DIR>          JetBrains
+04-Feb-18  17:31    <DIR>          LAPSi
+25-Jul-18  09:52    <DIR>          McAfee
+25-May-16  04:48    <DIR>          Microsoft Office
+07-Mar-18  19:15    <DIR>          Microsoft Office 15
+28-May-17  16:59    <DIR>          Microsoft Policy Platform
+01-Feb-18  17:51    <DIR>          Microsoft Rights Management sharing application
+04-Feb-18  17:27    <DIR>          Microsoft Silverlight
+12-Oct-18  13:42    <DIR>          Microsoft VS Code
+24-Dec-16  21:37    <DIR>          MiniTool Partition Wizard Free 9.1
+24-Sep-18  13:19    <DIR>          MSBuild
+25-Apr-18  03:42    <DIR>          nodejs
+26-Sep-18  11:52    <DIR>          paint.net
+24-Sep-18  13:22    <DIR>          Realtek
+12-Jul-16  18:39    <DIR>          RealVNC
+24-Sep-18  13:19    <DIR>          Reference Assemblies
+24-Sep-18  13:25    <DIR>          Synaptics
+12-Apr-18  17:08    <DIR>          Syncplicity
+24-Aug-18  21:40    <DIR>          TITUS
+11-Jul-16  18:38    <DIR>          tivoli
+04-Dec-16  19:34    <DIR>          TortoiseSVN
+14-Dec-17  11:41    <DIR>          Windows Defender
+14-Dec-17  11:41    <DIR>          Windows Defender Advanced Threat Protection
+24-Sep-18  13:22    <DIR>          Windows Mail
+16-Oct-18  13:29    <DIR>          Windows Media Player
+29-Sep-17  23:46    <DIR>          Windows Multimedia Platform
+29-Sep-17  23:46    <DIR>          windows nt
+16-Oct-18  13:29    <DIR>          Windows Photo Viewer
+29-Sep-17  23:46    <DIR>          Windows Portable Devices
+29-Sep-17  23:46    <DIR>          Windows Security
+29-Sep-17  23:46    <DIR>          WindowsPowerShell
+               0 File(s)              0 bytes
+              52 Dir(s)  73,540,268,032 bytes free
